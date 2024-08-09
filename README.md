@@ -1,4 +1,4 @@
-##Give me ipa pls
+## Give me ipa pls
 
 Xcode 6 - Give me iPa please
 
@@ -10,7 +10,7 @@ So I've spent little time to create a Applescript droplet to run the command to 
 
 It just opens terminal and run the command. One less command I need to remember. It doesn't handle errors but you can see the output in terminal.
 
-###How to use
+### How to use
 Just drag the .xcodearchive and drop on to the givemeipapls.app
 
 
